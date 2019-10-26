@@ -1,6 +1,6 @@
 using System;
 
-namespace Wellvest.Models
+namespace Wallvest.Models
 {
     public class ErrorViewModel
     {

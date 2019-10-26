@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Wellvest.Models;
+using Wallvest.Models;
 
-namespace Wellvest.Controllers
+namespace Wallvest.Controllers
 {
     public class HomeController : Controller
     {
